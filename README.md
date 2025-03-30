@@ -3,8 +3,8 @@
 # Project Name
 
 ## Description
-This project automates file archiving for Bayer Crop Sciences using C# and SSIS. 
-It includes:
+This project automates file archiving for clientT and clientB using C# and SSIS. It contains two packages with one script per package.
+It involves:
 - Moving and archiving files from D:\Incoming_Files\Archive to a Network Drive
 - Dynamically creating date-based folders
 - Zipping files to save space
@@ -18,6 +18,6 @@ It includes:
 - SSIS
 - SQL Server
 
-## Installation
-1. Clone the repository:
-```bash
+## Pupose:
+It was deployed on an SQL server.
+A job agent was created on the SQL server and the jobs set to run on the scheduled routine to manage incoming files from the clients introduced above.

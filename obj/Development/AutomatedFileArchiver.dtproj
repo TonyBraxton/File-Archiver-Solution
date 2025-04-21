@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">LAPTOP-BK8EF5JA</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbaRy2dcC0Uin0Ri1pSQYtgAAAAACAAAAAAAQZgAAAAEAACAAAABMyqNDFJhN1UD3CTBXqrJq1lrUN/1BWOtyMj0SxtbtrQAAAAAOgAAAAAIAACAAAABCxQ8r71cqNPROVuKkVOlAGFZy8XjL6zybBp74ivyXgZAAAADorph78jIhB5IEr5EtY7f46RZFS0Rz7YWhEO24yqffb+Jjv45ys7gXrP/uTXqxbCIyOxMw5c06u+1+xPDslO6wRQqjH409udN35xmnlmngnlTBNZx/IOnsziNnoNeLRO0NJqmv9lMxNPENbO621hpflPSwlktXbh87YXg8u3YxMdZcSblOD884XCarNlpbrNdAAAAANJwJ/c1+CPw0NFJDYJWTDdM2cjrCXffGFV6o4m9KaJnH8x4RSMo7Doqo5M6c1TN+w/k/ymefN/pE8SeHKVuNiA==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbaRy2dcC0Uin0Ri1pSQYtgAAAAACAAAAAAAQZgAAAAEAACAAAAB2FP1X0CqRGGhfrPc9QH4+0Zxvqe9GHciJz7o2rwLeRwAAAAAOgAAAAAIAACAAAACS0jsYS70whzCZ5OK8XVz7acrA8VViJRg7ozb6LQlYYJAAAADu2HGrmq4WN8TDNWYYyIWlCJGgKiRxzaLvAJtIn3U6IbCWH5KG7QJ+1x1y4K9BifMFF3iwNtYn23qPVGiS6GZm/sEVV3vQufYcoI6QGiDRO6us/hQ/UwOK4qzuZGRNJ8UEurWCoQXKXCrCH2mBkC+wzKoVtNkr2biRpUEl6P2sN6UBqWHw7WQzqASgvH2sz7RAAAAAeZ8TmrpjWmlKz+aKQodgI2D6v4zIQMsZFSNGzicTDvNtfUzyLlD4yWetX07KNwVipDpV4tJ31NCQYsRMXxAdSw==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -43,10 +43,10 @@
                 <SSIS:Property SSIS:Name="Name">TelusPackage</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">9</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">20</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{F9D3569B-C401-45FF-B1CC-E3F30E22D8A3}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{816E3712-56ED-4B0D-852E-A2939AB9560F}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -60,10 +60,10 @@
                 <SSIS:Property SSIS:Name="Name">Bayer Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">86</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">125</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{A2125F72-73CC-46D9-AB2C-98BAB94975D1}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{1239BBD6-9575-449B-819A-9284E0BEB73B}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>

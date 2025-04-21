@@ -7,11 +7,12 @@ This project automates file archiving for clientT and clientB using C# and SSIS.
 It involves:
 - Moving and archiving files from D:\Incoming_Files\Archive to a Network Drive
 - Dynamically creating date-based folders
-- Zipping files to save space
-- Deleting processed files from the D drive
+- Move the files from source to destination folder
+- Deleting processed files from the D drive(source folder)
+- Zipping dateBased folders to save space
 - Parameterizing the network drive path in SSIS
 - Deploying the SSIS package on SQL Server
-- Integrating it into the BAYER daily job workflow
+- Integrating it into the clientB and clientT daily job workflow
 
 ## Technologies Used
 - C#
